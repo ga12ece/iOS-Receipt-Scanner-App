@@ -1,0 +1,22 @@
+{
+    "transactions": [
+        {
+            "store": "Giant",
+            "dateTime": "10/11/2019",
+            "items": {
+                "INDOMIE FRIED ND": 0.69,
+                "INDOMIE FRIED NDI": 0.69
+            },
+            "total": 1.38
+        },
+        {
+            "store": "Giant",
+            "dateTime": "07/07/2019",
+            "items": {
+                "DAN L&F PCH21.2Z": 2.0,
+                "COL ANGL HAIR16Z": 3.29
+            },
+            "total": 5.29
+        }
+    ]
+}

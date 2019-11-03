@@ -1,0 +1,117 @@
+{
+    "transactions": [
+        {
+            "store": "Regal Theatre",
+            "dateTime": "09/04/2019",
+            "items": {
+                "IT Chapter 2": 14.0,
+                "Lrg Popcorn": 8.5,
+                "Pepsi 500ml": 5.0
+            },
+            "total": 27.5
+        },
+        {
+            "store": "Chick-Fil-A",
+            "dateTime": "09/02/2019",
+            "items": {
+                "Bread": 3.99,
+                "Chips": 2.99,
+                "Salsa": 9.99
+            },
+            "total": 16.97
+        },
+        {
+            "store": "Giant",
+            "dateTime": "09/01/2019",
+            "items": {
+                "CRSNT": 5.0,
+                "ABC JASMINE RIC": 8.5,
+                "PLUM TOMATOES": 1.64,
+                "SB BTR LTTCEBLND": 2.69
+            },
+            "total": 17.83
+        },
+        {
+            "store": "Walmart",
+            "dateTime": "08/30/2019",
+            "items": {
+                "Chips": 10.0,
+                "Cookies": 5.0
+            },
+            "total": 15.0
+        },
+        {
+            "store": "Panda Express",
+            "dateTime": "08/27/2019",
+            "items": {
+                "Beef & Broccoli": 5.99,
+                "Orange Chicken": 5.99
+            },
+            "total": 11.98
+        },
+        {
+            "store": "McDonalds",
+            "dateTime": "08/19/2019",
+            "items": {
+                "Happy Meal": 5.0,
+                "Large Fries": 2.0,
+                "Pepsi": 1.5
+            },
+            "total": 8.5
+        },
+        {
+            "store": "Steak Shake",
+            "dateTime": "08/17/2019",
+            "items": {
+                "Chocolate Milkshake": 8.0
+            },
+            "total": 8.0
+        },
+        {
+            "store": "City Dogs",
+            "dateTime": "08/14/2019",
+            "items": {
+                "Chilidog": 4.99,
+                "Pepsi": 1.99
+            },
+            "total": 6.98
+        },
+        {
+            "store": "CVS Pharmarcy",
+            "dateTime": "08/10/2019",
+            "items": {
+                "Q-Tips": 5.67,
+                "Contact Lens Solution": 7.82
+            },
+            "total": 13.49
+        },
+        {
+            "store": "Panda Express",
+            "dateTime": "08/06/2019",
+            "items": {
+                "Beef & Broccoli": 10.0
+            },
+            "total": 10.0
+        },
+        {
+            "store": "McDonalds",
+            "dateTime": "08/01/2019",
+            "items": {
+                "Double Cheeseburger": 3.99,
+                "Snack Wrap": 3.99,
+                "Pepsi": 1.59
+            },
+            "total": 9.57
+        },
+        {
+            "store": "Regal Theatre",
+            "dateTime": "08/01/2019",
+            "items": {
+                "John Wick 3 IMAX ": 21.0,
+                "Large Popcorn": 8.5,
+                "Pepsi 500ml": 5.0
+            },
+            "total": 34.5
+        }
+    ]
+}
